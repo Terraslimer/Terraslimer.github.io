@@ -10,16 +10,16 @@
 <th>jpg</th>
 </tr>
 <tr>
-<th><a href= "back.html"><img src = "a/r.png"></a></th>
-<th><a href= "back.html"><img src = "a/b.gif"></a></th>
-<th><a href= "back.html"><img src = "a/a.jpg"></a></th>
+<th><a href= "back.html"><img src = "r.png"></a></th>
+<th><a href= "back.html"><img src = "b.gif"></a></th>
+<th><a href= "back.html"><img src = "a.jpg"></a></th>
 
 </tr>
 </table>
 <a href= "back.html"></a>
-<img src = "a/r.png">
-<img src = "a/b.gif">
-<img src = "a/a.jpg">
+<img src = "r.png">
+<img src = "b.gif">
+<img src = "a.jpg">
 <b> x=0 </b>
 <i> A-B*C=P </i>
 <u> j*q-f=i </u>

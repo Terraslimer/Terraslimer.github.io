@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Actividad</title>
 </head>
 <body>
 <h2>Titulo</h2> 
